@@ -1,3 +1,10 @@
+/*
+ Theme Name:   Digital Dew Tour
+ Description:  this is something new
+ Author:       Julie
+ Version:      1.0.0
+*/
+
 <?php
 
 // adding my stylesheet file
@@ -26,3 +33,5 @@ wp_enqueue_script('jquery', false, array(), false, false);
 add_filter('wp_enqueue_scripts','insert_jquery',1);
 
 ?>
+
+

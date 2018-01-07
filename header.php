@@ -9,16 +9,12 @@
 <body>
 <!--navbar: this is the one that will be sticky at top at all times
  -->
+
 <div class="navbar">
   <script type="text/javascript">
 <!--
 ddt_navbar();
 //--></script>
-  <li><a href="https://boobsandbackpacks.com/category/developher/">Develop-Her</a></li>
-  <li><a href="https://boobsandbackpacks.com/category/spiked/">Food & Drink</a></li>
-  <li>
-  <div style="position: absolute; top: 11px;">
-  <a href="https://boobsandbackpacks.com/">
   <img src="http://boobsandbackpacks.com/wp-content/uploads/2017/08/logo_screenshot.png" height="40" border="0" padding="0" margin="0"></a>
   </div></li>
    <li><a href="https://boobsandbackpacks.com/category/diy/">  DIYS  </a>
@@ -27,7 +23,6 @@ ddt_navbar();
   <li><a href="https://boobsandbackpacks.com/category/diy/">Diys</a>
   </li>
 </div>
-
 
 
 <!--- begin item one
@@ -76,7 +71,6 @@ digitaldewtour_slider();
                              </div>
   </div>                           </a>
   
-
   
 <!--begin latest plog posts
               -->
