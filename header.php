@@ -6,8 +6,10 @@
 <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri(). '/js/digitaldewtour_slider.js' ?>"></script>
 <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri(). '/js/script.js' ?>"></script>
 </head>
+<script type="text/javascript" src="<?php echo get_stylesheet_directory_uri(). '/js/slider.js' ?>"></script>
+</head>
 <body>
-<!--navbar: this is the one that will be sticky at top at all times
+<!--navbar: this is the one that will be sticky at top at all timesnew
  -->
 <div class="navbar">
   <script type="text/javascript">
